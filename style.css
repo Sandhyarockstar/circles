@@ -1,0 +1,41 @@
+#outer-circle{
+    left:100px;
+    top:100px;
+    position:relative;
+    background-color:blueviolet;
+    border-radius:50%;
+    height:500px;
+    width:500px;
+}
+#inner-circle{
+    left:50px;
+    top:50px;
+    position:relative;
+    background-color:red;
+    border-radius:50%;
+    height:400px;
+    width:400px;
+    
+}
+
+#circle3{
+    left:50px;
+    top:50px;
+    position:absolute;
+    background-color:green;
+    border-radius:50%;
+    height:300px;
+    width:300px;
+    
+}
+
+#circle4{
+    left:50px;
+    top:50px;
+    position:absolute;
+    background-color:yellow;
+    border-radius:50%;
+    height:200px;
+    width:200px;
+    
+}
